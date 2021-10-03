@@ -147,12 +147,20 @@ msgstr ""
 
 msgctxt "#30605"
 msgid "Page (%s/%s) | Next >>"
-msgstr ""
+msgstr "Página (%s/%s) | Próxima >>"
 
 msgctxt "#30606"
 msgid "By country"
-msgstr ""
+msgstr "Por país"
 
 msgctxt "#30607"
 msgid "Prefer HTTP streams over HTTS"
-msgstr ""
+msgstr "Preferir streams HTTP ao inves de HTTPS"
+
+msgctxt "#30608"
+msgid "Unable to get radio stream url"
+msgstr "Incapaz de determinar o endereço da stream de rádio"
+
+msgctxt "#30609"
+msgid "Sucessfully added to my stations!"
+msgstr "Adicionado com sucesso à lista de estações!"
