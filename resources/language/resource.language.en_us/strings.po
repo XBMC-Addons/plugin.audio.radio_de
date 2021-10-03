@@ -155,3 +155,11 @@ msgstr ""
 msgctxt "#30607"
 msgid "Prefer HTTP streams over HTTS"
 msgstr ""
+
+msgctxt "#30608"
+msgid "Unable to get radio stream url"
+msgstr ""
+
+msgctxt "#30609"
+msgid "Sucessfully added to my stations!"
+msgstr ""

@@ -156,3 +156,11 @@ msgstr "לפי מדינה"
 msgctxt "#30607"
 msgid "Prefer HTTP streams over HTTS"
 msgstr "העדפת תזרימי HTTP על פני HTTPS"
+
+msgctxt "#30608"
+msgid "Unable to get radio stream url"
+msgstr ""
+
+msgctxt "#30609"
+msgid "Sucessfully added to my stations!"
+msgstr ""
