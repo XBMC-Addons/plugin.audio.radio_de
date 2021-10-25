@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Weblate 4.8\n"
 
 msgctxt "Addon Summary"
-msgid "Access &gt;30000 radio broadcasts"
-msgstr "&gt;30000 라디오 방송국 연결"
+msgid "Access >30000 radio broadcasts"
+msgstr ">30000 라디오 방송국 연결"
 
 msgctxt "Addon Description"
 msgid "Music plugin to access over 30000 international radio broadcasts from rad.io, radio.de, radio.fr, radio.pt and radio.es[CR]Currently features[CR]- English, german, french translated[CR]- Browse stations by location, genre, topic, country, city and language[CR]- Search for stations[CR]- 115 genres, 59 topics, 94 countrys, 1010 citys, 63 languages"

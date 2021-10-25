@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.8\n"
 
 msgctxt "Addon Summary"
-msgid "Access &gt;30000 radio broadcasts"
+msgid "Access >30000 radio broadcasts"
 msgstr "Ecoutez plus de 30000 stations de radio"
 
 msgctxt "Addon Description"
