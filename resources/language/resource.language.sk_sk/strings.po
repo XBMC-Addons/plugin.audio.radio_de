@@ -23,7 +23,12 @@ msgstr "Pristupujte k vyše 30000 vysielaniam"
 
 msgctxt "Addon Description"
 msgid "Music plugin to access over 30000 international radio broadcasts from rad.io, radio.de, radio.fr, radio.pt and radio.es[CR]Currently features[CR]- English, german, french translated[CR]- Browse stations by location, genre, topic, country, city and language[CR]- Search for stations[CR]- 115 genres, 59 topics, 94 countrys, 1010 citys, 63 languages"
-msgstr "Hudobný doplnok na prístup k vyše 30000 medzinárodným rádio vysielaniam z rad.io, radio.de a radio.fr&#10;Momentálne podporuje:&#10;- anglické, nemecké a francúzske preklady&#10;- prehliadanie staníc podľa umiestnenia, žánru, témy, krajiny, mesta a jazyka&#10;- vyhľadávanie staníc&#10;- 115 žánrov, 59 tém, 94 krajín, 1010 miest, 63 jazykov"
+msgstr "Hudobný doplnok na prístup k vyše 30000 medzinárodným rádio vysielaniam z rad.io, radio.de a radio.fr
+Momentálne podporuje:
+- anglické, nemecké a francúzske preklady
+- prehliadanie staníc podľa umiestnenia, žánru, témy, krajiny, mesta a jazyka
+- vyhľadávanie staníc
+- 115 žánrov, 59 tém, 94 krajín, 1010 miest, 63 jazykov"
 
 msgctxt "#30100"
 msgid "Editorials Recommendations"
